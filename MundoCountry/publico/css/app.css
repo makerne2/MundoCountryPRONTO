@@ -1,0 +1,209 @@
+#tudo {
+	background-color:antiquewhite;
+	  height: 1340px
+}
+
+
+#link {
+color:white;	
+}
+
+#itens {  
+	margin-top: 90px;
+	margin-left: 70px;
+	margin-right: 0px;
+}
+
+#pesq {
+	width:290px;
+	display: flex;
+}
+
+#imagpesquisa {
+	width: 25px; 
+  
+}
+#pesquisas {
+	margin-left: 380px; 
+	height: 40px;
+	margin-top: 20px;
+}
+
+#dast {
+	color:black; 
+	width: 100px; 
+	margin-left:70px;
+	margin-top:px; 
+	display: inline; 
+}
+
+
+
+#menu {
+	width: 1350px;
+	height: 40px;
+	background-color: #d4ba96;
+
+}
+
+#menu button {
+	border: solid 2px black; 
+	background-color:#997D62;
+	width:200px;
+        margin-left: 10px;
+	height:35px;
+}
+#barrapesquisa {
+    
+    float: right;
+    padding-right: 10%;
+    padding-top: 10%;
+    font-family: arial;
+}
+
+
+h2 {
+     text-align: center;
+    font-family: arial;
+}
+
+h3 {
+    text-align: center;
+    font-family: arial;
+}
+#formularios{
+    width: 180px;
+    text-align: center;
+    font-family: arial;
+     margin-left: 580px;  
+    border: solid 2px black; 
+}
+#formulario {
+  
+    width: 220px; 
+    
+    
+}
+
+#logg {
+	height: 190px;
+	padding-top:20px;
+	margin-left: 16px;
+	
+}
+body{
+	padding-left:0 auto;
+	width: 1349px;
+         
+      
+}
+
+#rodape{
+	padding-top: 10px;
+	padding-bottom: 15px;
+	border:solid;
+	border-width: 2px 0 0 0;
+	border-color: gray;
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	background-color: #d4ba96;
+	
+}
+
+#imgrodape{
+	display: flex;
+	width:165px;
+
+ 
+}
+
+#cielo{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	margin-right: 5%;
+	display:flex;
+}
+
+#boleto{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	margin-right: 5%;
+	display:flex;
+}
+
+#visa{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: height;
+	margin-right: 5%;
+	display:flex;
+}
+
+#instagram{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	margin-right:5px;
+	display:flex;
+}
+
+#facebook2{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	margin-right: 5%;
+	display:flex;
+}
+
+#gmail{
+	margin-top: 1%;
+	background-color: white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-position:center;
+	display:flex;
+}
+
+#black {
+   color: black;
+   text-align: center;
+   font-family: arial;
+   padding-left: 355px;
+}
+
+#TotalCarrinho{
+   margin-left: 640px;
+    margin-top: 100px;
+    font-family: arial;
+    
+}
